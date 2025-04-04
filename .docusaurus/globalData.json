@@ -1,108 +1,108 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/Prompt-Examples/my-website/docs",
+      "path": "/Prompt-Examples/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/Prompt-Examples/my-website/docs",
+          "path": "/Prompt-Examples/docs",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "intro",
-              "path": "/Prompt-Examples/my-website/docs/intro",
+              "path": "/Prompt-Examples/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-basics/congratulations",
-              "path": "/Prompt-Examples/my-website/docs/prompt-basics/congratulations",
+              "path": "/Prompt-Examples/docs/prompt-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-basics/create-a-blog-post",
-              "path": "/Prompt-Examples/my-website/docs/prompt-basics/create-a-blog-post",
+              "path": "/Prompt-Examples/docs/prompt-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-basics/create-a-document",
-              "path": "/Prompt-Examples/my-website/docs/prompt-basics/create-a-document",
+              "path": "/Prompt-Examples/docs/prompt-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-basics/create-a-page",
-              "path": "/Prompt-Examples/my-website/docs/prompt-basics/create-a-page",
+              "path": "/Prompt-Examples/docs/prompt-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-basics/deploy-your-site",
-              "path": "/Prompt-Examples/my-website/docs/prompt-basics/deploy-your-site",
+              "path": "/Prompt-Examples/docs/prompt-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-basics/markdown-features",
-              "path": "/Prompt-Examples/my-website/docs/prompt-basics/markdown-features",
+              "path": "/Prompt-Examples/docs/prompt-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-pmo/congratulations",
-              "path": "/Prompt-Examples/my-website/docs/prompt-pmo/congratulations",
+              "path": "/Prompt-Examples/docs/prompt-pmo/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-pmo/create-a-blog-post",
-              "path": "/Prompt-Examples/my-website/docs/prompt-pmo/create-a-blog-post",
+              "path": "/Prompt-Examples/docs/prompt-pmo/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-pmo/create-a-document",
-              "path": "/Prompt-Examples/my-website/docs/prompt-pmo/create-a-document",
+              "path": "/Prompt-Examples/docs/prompt-pmo/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-pmo/create-a-page",
-              "path": "/Prompt-Examples/my-website/docs/prompt-pmo/create-a-page",
+              "path": "/Prompt-Examples/docs/prompt-pmo/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-pmo/deploy-your-site",
-              "path": "/Prompt-Examples/my-website/docs/prompt-pmo/deploy-your-site",
+              "path": "/Prompt-Examples/docs/prompt-pmo/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-pmo/markdown-features",
-              "path": "/Prompt-Examples/my-website/docs/prompt-pmo/markdown-features",
+              "path": "/Prompt-Examples/docs/prompt-pmo/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-tools/manage-docs-versions",
-              "path": "/Prompt-Examples/my-website/docs/prompt-tools/manage-docs-versions",
+              "path": "/Prompt-Examples/docs/prompt-tools/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-tools/tools-list",
-              "path": "/Prompt-Examples/my-website/docs/prompt-tools/tools-list",
+              "path": "/Prompt-Examples/docs/prompt-tools/tools-list",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "prompt-tools/translate-your-site",
-              "path": "/Prompt-Examples/my-website/docs/prompt-tools/translate-your-site",
+              "path": "/Prompt-Examples/docs/prompt-tools/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/prompt---basics",
-              "path": "/Prompt-Examples/my-website/docs/category/prompt---basics",
+              "path": "/Prompt-Examples/docs/category/prompt---basics",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/prompt---pmo",
-              "path": "/Prompt-Examples/my-website/docs/category/prompt---pmo",
+              "path": "/Prompt-Examples/docs/category/prompt---pmo",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/prompt---tools",
-              "path": "/Prompt-Examples/my-website/docs/category/prompt---tools",
+              "path": "/Prompt-Examples/docs/category/prompt---tools",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -110,7 +110,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/Prompt-Examples/my-website/docs/intro",
+                "path": "/Prompt-Examples/docs/intro",
                 "label": "intro"
               }
             }

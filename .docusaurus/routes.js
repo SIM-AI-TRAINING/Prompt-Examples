@@ -3,203 +3,203 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/Prompt-Examples/my-website/blog',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog', 'e92'),
+    path: '/Prompt-Examples/blog',
+    component: ComponentCreator('/Prompt-Examples/blog', 'e7b'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/archive',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/archive', '7b0'),
+    path: '/Prompt-Examples/blog/archive',
+    component: ComponentCreator('/Prompt-Examples/blog/archive', '02d'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/authors',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/authors', '3cc'),
+    path: '/Prompt-Examples/blog/authors',
+    component: ComponentCreator('/Prompt-Examples/blog/authors', '940'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/authors/all-sebastien-lorber-articles',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/authors/all-sebastien-lorber-articles', '899'),
+    path: '/Prompt-Examples/blog/authors/all-sebastien-lorber-articles',
+    component: ComponentCreator('/Prompt-Examples/blog/authors/all-sebastien-lorber-articles', 'd9a'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/authors/yangshun',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/authors/yangshun', 'cea'),
+    path: '/Prompt-Examples/blog/authors/yangshun',
+    component: ComponentCreator('/Prompt-Examples/blog/authors/yangshun', '4b2'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/first-blog-post',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/first-blog-post', 'b8e'),
+    path: '/Prompt-Examples/blog/first-blog-post',
+    component: ComponentCreator('/Prompt-Examples/blog/first-blog-post', '563'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/long-blog-post',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/long-blog-post', 'a4a'),
+    path: '/Prompt-Examples/blog/long-blog-post',
+    component: ComponentCreator('/Prompt-Examples/blog/long-blog-post', '0b4'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/mdx-blog-post',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/mdx-blog-post', '4af'),
+    path: '/Prompt-Examples/blog/mdx-blog-post',
+    component: ComponentCreator('/Prompt-Examples/blog/mdx-blog-post', '467'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/tags',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/tags', 'e22'),
+    path: '/Prompt-Examples/blog/tags',
+    component: ComponentCreator('/Prompt-Examples/blog/tags', '525'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/tags/docusaurus',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/tags/docusaurus', '6e9'),
+    path: '/Prompt-Examples/blog/tags/docusaurus',
+    component: ComponentCreator('/Prompt-Examples/blog/tags/docusaurus', 'fee'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/tags/facebook',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/tags/facebook', 'd20'),
+    path: '/Prompt-Examples/blog/tags/facebook',
+    component: ComponentCreator('/Prompt-Examples/blog/tags/facebook', '5ef'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/tags/hello',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/tags/hello', 'adf'),
+    path: '/Prompt-Examples/blog/tags/hello',
+    component: ComponentCreator('/Prompt-Examples/blog/tags/hello', '994'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/tags/hola',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/tags/hola', '60e'),
+    path: '/Prompt-Examples/blog/tags/hola',
+    component: ComponentCreator('/Prompt-Examples/blog/tags/hola', 'e8f'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/blog/welcome',
-    component: ComponentCreator('/Prompt-Examples/my-website/blog/welcome', '328'),
+    path: '/Prompt-Examples/blog/welcome',
+    component: ComponentCreator('/Prompt-Examples/blog/welcome', '55a'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/markdown-page',
-    component: ComponentCreator('/Prompt-Examples/my-website/markdown-page', 'e23'),
+    path: '/Prompt-Examples/markdown-page',
+    component: ComponentCreator('/Prompt-Examples/markdown-page', '45f'),
     exact: true
   },
   {
-    path: '/Prompt-Examples/my-website/docs',
-    component: ComponentCreator('/Prompt-Examples/my-website/docs', 'ace'),
+    path: '/Prompt-Examples/docs',
+    component: ComponentCreator('/Prompt-Examples/docs', '26d'),
     routes: [
       {
-        path: '/Prompt-Examples/my-website/docs',
-        component: ComponentCreator('/Prompt-Examples/my-website/docs', 'b28'),
+        path: '/Prompt-Examples/docs',
+        component: ComponentCreator('/Prompt-Examples/docs', '1ed'),
         routes: [
           {
-            path: '/Prompt-Examples/my-website/docs',
-            component: ComponentCreator('/Prompt-Examples/my-website/docs', '994'),
+            path: '/Prompt-Examples/docs',
+            component: ComponentCreator('/Prompt-Examples/docs', 'a45'),
             routes: [
               {
-                path: '/Prompt-Examples/my-website/docs/category/prompt---basics',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/category/prompt---basics', 'b79'),
+                path: '/Prompt-Examples/docs/category/prompt---basics',
+                component: ComponentCreator('/Prompt-Examples/docs/category/prompt---basics', '4e9'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/category/prompt---pmo',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/category/prompt---pmo', 'a0d'),
+                path: '/Prompt-Examples/docs/category/prompt---pmo',
+                component: ComponentCreator('/Prompt-Examples/docs/category/prompt---pmo', '874'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/category/prompt---tools',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/category/prompt---tools', '4a8'),
+                path: '/Prompt-Examples/docs/category/prompt---tools',
+                component: ComponentCreator('/Prompt-Examples/docs/category/prompt---tools', '90c'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/intro',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/intro', '064'),
+                path: '/Prompt-Examples/docs/intro',
+                component: ComponentCreator('/Prompt-Examples/docs/intro', 'a13'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-basics/congratulations',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-basics/congratulations', '8f2'),
+                path: '/Prompt-Examples/docs/prompt-basics/congratulations',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-basics/congratulations', 'b83'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-basics/create-a-blog-post',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-basics/create-a-blog-post', 'f96'),
+                path: '/Prompt-Examples/docs/prompt-basics/create-a-blog-post',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-basics/create-a-blog-post', '61b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-basics/create-a-document',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-basics/create-a-document', '1db'),
+                path: '/Prompt-Examples/docs/prompt-basics/create-a-document',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-basics/create-a-document', '871'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-basics/create-a-page',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-basics/create-a-page', 'f3b'),
+                path: '/Prompt-Examples/docs/prompt-basics/create-a-page',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-basics/create-a-page', 'e0b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-basics/deploy-your-site',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-basics/deploy-your-site', '203'),
+                path: '/Prompt-Examples/docs/prompt-basics/deploy-your-site',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-basics/deploy-your-site', '5ed'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-basics/markdown-features',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-basics/markdown-features', '00b'),
+                path: '/Prompt-Examples/docs/prompt-basics/markdown-features',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-basics/markdown-features', '162'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-pmo/congratulations',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-pmo/congratulations', 'ef4'),
+                path: '/Prompt-Examples/docs/prompt-pmo/congratulations',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-pmo/congratulations', '284'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-pmo/create-a-blog-post',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-pmo/create-a-blog-post', '6fa'),
+                path: '/Prompt-Examples/docs/prompt-pmo/create-a-blog-post',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-pmo/create-a-blog-post', '709'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-pmo/create-a-document',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-pmo/create-a-document', 'd35'),
+                path: '/Prompt-Examples/docs/prompt-pmo/create-a-document',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-pmo/create-a-document', 'ee0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-pmo/create-a-page',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-pmo/create-a-page', 'd15'),
+                path: '/Prompt-Examples/docs/prompt-pmo/create-a-page',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-pmo/create-a-page', '9b4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-pmo/deploy-your-site',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-pmo/deploy-your-site', 'ade'),
+                path: '/Prompt-Examples/docs/prompt-pmo/deploy-your-site',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-pmo/deploy-your-site', '7d4'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-pmo/markdown-features',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-pmo/markdown-features', '560'),
+                path: '/Prompt-Examples/docs/prompt-pmo/markdown-features',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-pmo/markdown-features', 'd31'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-tools/manage-docs-versions',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-tools/manage-docs-versions', '843'),
+                path: '/Prompt-Examples/docs/prompt-tools/manage-docs-versions',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-tools/manage-docs-versions', 'dfe'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-tools/tools-list',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-tools/tools-list', 'bde'),
+                path: '/Prompt-Examples/docs/prompt-tools/tools-list',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-tools/tools-list', '044'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/Prompt-Examples/my-website/docs/prompt-tools/translate-your-site',
-                component: ComponentCreator('/Prompt-Examples/my-website/docs/prompt-tools/translate-your-site', '0b8'),
+                path: '/Prompt-Examples/docs/prompt-tools/translate-your-site',
+                component: ComponentCreator('/Prompt-Examples/docs/prompt-tools/translate-your-site', 'ef8'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }
@@ -210,8 +210,8 @@ export default [
     ]
   },
   {
-    path: '/Prompt-Examples/my-website/',
-    component: ComponentCreator('/Prompt-Examples/my-website/', 'c68'),
+    path: '/Prompt-Examples/',
+    component: ComponentCreator('/Prompt-Examples/', '8a8'),
     exact: true
   },
   {

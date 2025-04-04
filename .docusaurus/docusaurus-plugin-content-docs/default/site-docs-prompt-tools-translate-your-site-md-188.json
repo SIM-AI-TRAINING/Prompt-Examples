@@ -5,7 +5,7 @@
   "source": "@site/docs/prompt-tools/translate-your-site.md",
   "sourceDirName": "prompt-tools",
   "slug": "/prompt-tools/translate-your-site",
-  "permalink": "/Prompt-Examples/my-website/docs/prompt-tools/translate-your-site",
+  "permalink": "/Prompt-Examples/docs/prompt-tools/translate-your-site",
   "draft": false,
   "unlisted": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/prompt-tools/translate-your-site.md",
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Manage Docs Versions",
-    "permalink": "/Prompt-Examples/my-website/docs/prompt-tools/manage-docs-versions"
+    "permalink": "/Prompt-Examples/docs/prompt-tools/manage-docs-versions"
   },
   "next": {
     "title": "List of tools",
-    "permalink": "/Prompt-Examples/my-website/docs/prompt-tools/tools-list"
+    "permalink": "/Prompt-Examples/docs/prompt-tools/tools-list"
   }
 }

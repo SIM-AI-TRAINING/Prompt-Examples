@@ -8,7 +8,7 @@ export default {
   "tagline": "How to talk to AI",
   "favicon": "img/favicon.ico",
   "url": "https://SIM-AI-TRAINING.github.io",
-  "baseUrl": "/Prompt-Examples/my-website/",
+  "baseUrl": "/Prompt-Examples/",
   "organizationName": "SIM-AI-TRAINING",
   "projectName": "Prompt-Examples",
   "onBrokenLinks": "throw",

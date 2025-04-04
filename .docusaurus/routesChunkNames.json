@@ -1,5 +1,5 @@
 {
-  "/Prompt-Examples/my-website/blog-e92": {
+  "/Prompt-Examples/blog-e7b": {
     "__comp": "a6aa9e1f",
     "__context": {
       "plugin": "36994c47"
@@ -19,16 +19,16 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "17fe9e60"
+    "__props": "691524da"
   },
-  "/Prompt-Examples/my-website/blog/archive-7b0": {
+  "/Prompt-Examples/blog/archive-02d": {
     "__comp": "9e4087bc",
     "__context": {
       "plugin": "36994c47"
     },
-    "__props": "c2c416c4"
+    "__props": "e2d0ad24"
   },
-  "/Prompt-Examples/my-website/blog/authors-3cc": {
+  "/Prompt-Examples/blog/authors-940": {
     "__comp": "621db11d",
     "__context": {
       "data": {
@@ -37,9 +37,9 @@
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "0e67a186"
+    "__props": "691b64f8"
   },
-  "/Prompt-Examples/my-website/blog/authors/all-sebastien-lorber-articles-899": {
+  "/Prompt-Examples/blog/authors/all-sebastien-lorber-articles-d9a": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -59,9 +59,9 @@
       }
     ],
     "sidebar": "814f3328",
-    "__props": "506439a2"
+    "__props": "7c71bb0c"
   },
-  "/Prompt-Examples/my-website/blog/authors/yangshun-cea": {
+  "/Prompt-Examples/blog/authors/yangshun-4b2": {
     "__comp": "33fc5bb8",
     "__context": {
       "data": {
@@ -81,9 +81,9 @@
       }
     ],
     "sidebar": "814f3328",
-    "__props": "7de623bc"
+    "__props": "bef21167"
   },
-  "/Prompt-Examples/my-website/blog/first-blog-post-b8e": {
+  "/Prompt-Examples/blog/first-blog-post-563": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -94,7 +94,7 @@
     "sidebar": "814f3328",
     "content": "e273c56f"
   },
-  "/Prompt-Examples/my-website/blog/long-blog-post-a4a": {
+  "/Prompt-Examples/blog/long-blog-post-0b4": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -105,7 +105,7 @@
     "sidebar": "814f3328",
     "content": "73664a40"
   },
-  "/Prompt-Examples/my-website/blog/mdx-blog-post-4af": {
+  "/Prompt-Examples/blog/mdx-blog-post-467": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -116,15 +116,15 @@
     "sidebar": "814f3328",
     "content": "59362658"
   },
-  "/Prompt-Examples/my-website/blog/tags-e22": {
+  "/Prompt-Examples/blog/tags-525": {
     "__comp": "01a85c17",
     "__context": {
       "plugin": "36994c47"
     },
     "sidebar": "814f3328",
-    "__props": "defb1a6e"
+    "__props": "64a9b2c3"
   },
-  "/Prompt-Examples/my-website/blog/tags/docusaurus-6e9": {
+  "/Prompt-Examples/blog/tags/docusaurus-fee": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -144,9 +144,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "897bbc41"
+    "__props": "2298677d"
   },
-  "/Prompt-Examples/my-website/blog/tags/facebook-d20": {
+  "/Prompt-Examples/blog/tags/facebook-5ef": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -157,9 +157,9 @@
         "content": "7661071f"
       }
     ],
-    "__props": "f7a49365"
+    "__props": "fff578b4"
   },
-  "/Prompt-Examples/my-website/blog/tags/hello-adf": {
+  "/Prompt-Examples/blog/tags/hello-994": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -173,9 +173,9 @@
         "content": "8717b14a"
       }
     ],
-    "__props": "dd0bf4db"
+    "__props": "f4fb0f44"
   },
-  "/Prompt-Examples/my-website/blog/tags/hola-60e": {
+  "/Prompt-Examples/blog/tags/hola-e8f": {
     "__comp": "6875c492",
     "__context": {
       "plugin": "36994c47"
@@ -186,9 +186,9 @@
         "content": "925b3f96"
       }
     ],
-    "__props": "aa8229e6"
+    "__props": "7ba637d7"
   },
-  "/Prompt-Examples/my-website/blog/welcome-328": {
+  "/Prompt-Examples/blog/welcome-55a": {
     "__comp": "ccc49370",
     "__context": {
       "data": {
@@ -199,103 +199,103 @@
     "sidebar": "814f3328",
     "content": "d9f32620"
   },
-  "/Prompt-Examples/my-website/markdown-page-e23": {
+  "/Prompt-Examples/markdown-page-45f": {
     "__comp": "1f391b9e",
     "__context": {
       "plugin": "a7456010"
     },
     "content": "393be207"
   },
-  "/Prompt-Examples/my-website/docs-ace": {
+  "/Prompt-Examples/docs-26d": {
     "__comp": "5e95c892",
     "__context": {
       "plugin": "aba21aa0"
     }
   },
-  "/Prompt-Examples/my-website/docs-b28": {
+  "/Prompt-Examples/docs-1ed": {
     "__comp": "a7bd4aaa",
-    "__props": "0452acd9"
+    "__props": "485bcad3"
   },
-  "/Prompt-Examples/my-website/docs-994": {
+  "/Prompt-Examples/docs-a45": {
     "__comp": "a94703ab"
   },
-  "/Prompt-Examples/my-website/docs/category/prompt---basics-b79": {
+  "/Prompt-Examples/docs/category/prompt---basics-4e9": {
     "__comp": "14eb3368",
-    "__props": "c4b343ec"
+    "__props": "7a64fa60"
   },
-  "/Prompt-Examples/my-website/docs/category/prompt---pmo-a0d": {
+  "/Prompt-Examples/docs/category/prompt---pmo-874": {
     "__comp": "14eb3368",
-    "__props": "036befd5"
+    "__props": "364d7cc2"
   },
-  "/Prompt-Examples/my-website/docs/category/prompt---tools-4a8": {
+  "/Prompt-Examples/docs/category/prompt---tools-90c": {
     "__comp": "14eb3368",
-    "__props": "df60e284"
+    "__props": "adb74226"
   },
-  "/Prompt-Examples/my-website/docs/intro-064": {
+  "/Prompt-Examples/docs/intro-a13": {
     "__comp": "17896441",
     "content": "0e384e19"
   },
-  "/Prompt-Examples/my-website/docs/prompt-basics/congratulations-8f2": {
+  "/Prompt-Examples/docs/prompt-basics/congratulations-b83": {
     "__comp": "17896441",
     "content": "2d190196"
   },
-  "/Prompt-Examples/my-website/docs/prompt-basics/create-a-blog-post-f96": {
+  "/Prompt-Examples/docs/prompt-basics/create-a-blog-post-61b": {
     "__comp": "17896441",
     "content": "2f6665e7"
   },
-  "/Prompt-Examples/my-website/docs/prompt-basics/create-a-document-1db": {
+  "/Prompt-Examples/docs/prompt-basics/create-a-document-871": {
     "__comp": "17896441",
     "content": "d52a5341"
   },
-  "/Prompt-Examples/my-website/docs/prompt-basics/create-a-page-f3b": {
+  "/Prompt-Examples/docs/prompt-basics/create-a-page-e0b": {
     "__comp": "17896441",
     "content": "4f792f45"
   },
-  "/Prompt-Examples/my-website/docs/prompt-basics/deploy-your-site-203": {
+  "/Prompt-Examples/docs/prompt-basics/deploy-your-site-5ed": {
     "__comp": "17896441",
     "content": "330d955d"
   },
-  "/Prompt-Examples/my-website/docs/prompt-basics/markdown-features-00b": {
+  "/Prompt-Examples/docs/prompt-basics/markdown-features-162": {
     "__comp": "17896441",
     "content": "ca582b30"
   },
-  "/Prompt-Examples/my-website/docs/prompt-pmo/congratulations-ef4": {
+  "/Prompt-Examples/docs/prompt-pmo/congratulations-284": {
     "__comp": "17896441",
     "content": "edee8f27"
   },
-  "/Prompt-Examples/my-website/docs/prompt-pmo/create-a-blog-post-6fa": {
+  "/Prompt-Examples/docs/prompt-pmo/create-a-blog-post-709": {
     "__comp": "17896441",
     "content": "a31d2cfe"
   },
-  "/Prompt-Examples/my-website/docs/prompt-pmo/create-a-document-d35": {
+  "/Prompt-Examples/docs/prompt-pmo/create-a-document-ee0": {
     "__comp": "17896441",
     "content": "46d129b2"
   },
-  "/Prompt-Examples/my-website/docs/prompt-pmo/create-a-page-d15": {
+  "/Prompt-Examples/docs/prompt-pmo/create-a-page-9b4": {
     "__comp": "17896441",
     "content": "2faf6461"
   },
-  "/Prompt-Examples/my-website/docs/prompt-pmo/deploy-your-site-ade": {
+  "/Prompt-Examples/docs/prompt-pmo/deploy-your-site-7d4": {
     "__comp": "17896441",
     "content": "bc1ed3ea"
   },
-  "/Prompt-Examples/my-website/docs/prompt-pmo/markdown-features-560": {
+  "/Prompt-Examples/docs/prompt-pmo/markdown-features-d31": {
     "__comp": "17896441",
     "content": "509f22ae"
   },
-  "/Prompt-Examples/my-website/docs/prompt-tools/manage-docs-versions-843": {
+  "/Prompt-Examples/docs/prompt-tools/manage-docs-versions-dfe": {
     "__comp": "17896441",
     "content": "08bf1985"
   },
-  "/Prompt-Examples/my-website/docs/prompt-tools/tools-list-bde": {
+  "/Prompt-Examples/docs/prompt-tools/tools-list-044": {
     "__comp": "17896441",
     "content": "c4510e7c"
   },
-  "/Prompt-Examples/my-website/docs/prompt-tools/translate-your-site-0b8": {
+  "/Prompt-Examples/docs/prompt-tools/translate-your-site-ef8": {
     "__comp": "17896441",
     "content": "1881664e"
   },
-  "/Prompt-Examples/my-website/-c68": {
+  "/Prompt-Examples/-8a8": {
     "__comp": "c4f5d8e4",
     "__context": {
       "plugin": "a7456010"

@@ -1,5 +1,5 @@
 {
-  "blogBasePath": "/Prompt-Examples/my-website/blog",
+  "blogBasePath": "/Prompt-Examples/blog",
   "blogTitle": "Blog",
-  "authorsListPath": "/Prompt-Examples/my-website/blog/authors"
+  "authorsListPath": "/Prompt-Examples/blog/authors"
 }
